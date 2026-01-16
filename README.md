@@ -64,7 +64,7 @@ body{
 }
 </style><script>
 setTimeout(function(){
-  window.location.href = "https://bit.ly/4qxhIew";
+  window.location.href = "https://t.me/slotreferral";
 }, 3000);
 </script>
 </head>
@@ -80,7 +80,7 @@ setTimeout(function(){
     🚫 No Scam – Free Join
   </p>
 
-  <a class="btn" href="https://bit.ly/4qxhIew">Join Telegram</a>
+  <a class="btn" href="https://t.me/slotreferral">Join Telegram</a>
 
   <div class="note">
     Official Slot Telegram Channel
