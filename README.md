@@ -62,7 +62,11 @@ body{
   font-size:12px;
   opacity:0.65;
 }
-</style>
+</style><script>
+setTimeout(function(){
+  window.location.href = "https://t.me/YOUR_TELEGRAM_LINK";
+}, 3000);
+</script>
 </head>
 
 <body>
