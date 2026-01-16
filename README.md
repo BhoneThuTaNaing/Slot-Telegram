@@ -54,7 +54,7 @@ body{
   color:#000;
   font-weight:700;
   text-decoration:none;
-  border-radius:10px;
+  border-radius:10px;https://t.me/slotreferral
 }
 
 .note{
@@ -64,7 +64,7 @@ body{
 }
 </style><script>
 setTimeout(function(){
-  window.location.href = "https://t.me/slotreferral";
+  window.location.href = "";
 }, 3000);
 </script>
 </head>
